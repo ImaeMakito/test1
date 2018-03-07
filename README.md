@@ -9,4 +9,5 @@ where deptno in (
   select *
   from
   limit 1000
+  jjj
   
