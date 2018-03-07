@@ -6,4 +6,7 @@ where deptno in (
   where dname like '%S%'
   )
 
+  select *
+  from
+  limit 1000
   
