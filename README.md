@@ -10,4 +10,3 @@ where deptno in (
   from
   limit 1000
   jjj
-  
